@@ -22,4 +22,4 @@ presentations from R Markdown documents.
 ## Output
 
 [![First page of
-template.pdf](example.png)](https://jrosell.github/rmarkdown-xarigan-presenations/template.html)
+template.pdf](example.png)](https://jrosell.github.io/rmarkdown-xaringan-presentation/template.html)
