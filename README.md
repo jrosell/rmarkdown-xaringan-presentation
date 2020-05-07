@@ -25,3 +25,7 @@ presentations from R Markdown documents.
 
 [![First page of
 template.pdf](example.png)](https://jrosell.github.io/rmarkdown-xaringan-presentation/template.html)
+
+## Learn more
+
+<https://slides.yihui.org/xaringan/>
