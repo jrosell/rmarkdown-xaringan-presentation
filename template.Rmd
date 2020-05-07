@@ -1,0 +1,37 @@
+---
+title: "Title"
+author: "Me"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: "my-style.css"
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+One slide.
+
+---
+
+Another slide.
+
+---
+
+class: center
+background-image: url("cool.jpg")
+
+# A new slide
+
+Content.
+
+---
+
+class: center, inverse
+background-image: url("cool.jpg")
+
+# A new slide inversed
+
+Content inversed
+
+
